@@ -11,7 +11,7 @@
 
     <groupId>org.reactome.server.tools</groupId>
     <artifactId>diagram-exporter</artifactId>
-    <version>1.5.4</version>
+    <version>3.0.9</version>
     <packaging>jar</packaging>
 
 	<name>Diagram Exporter</name>
